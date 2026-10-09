@@ -6,8 +6,8 @@
     "chartStart": "2025-09-25",
     "title": "Elon Musk và thương vụ huy động 20 tỷ USD cho xAI",
     "eyebrow": "AI BOOM / xAI / ELON MUSK",
-    "question": "xAI được cho là đang tiến gần vòng huy động khoảng 20 tỷ USD để mở rộng Colossus 2; NVIDIA có thể đầu tư tới 2 tỷ USD. Đây vẫn là thương vụ đang đàm phán, chưa phải tiền đã giải ngân hay doanh thu NVIDIA đã ghi nhận. Trên mạng, nhiều người xem tin này là dấu hiệu nhu cầu GPU sẽ tiếp tục tăng mạnh. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
-    "lesson": "Đây là authority/KOL effect kết hợp FOMO: một nhân vật nổi tiếng có thể làm thông tin lan nhanh và tạo cảm giác “người có fame đã đặt cược thì mình cũng nên vào”. Nhưng sức ảnh hưởng của Elon Musk không phải là bảo đảm cho giá NVDA ở phiên kế tiếp. Hãy tách thông tin thật về nhu cầu chip khỏi niềm tin được tạo ra bởi tên tuổi.",
+    "question": "xAI được cho là đang tiến gần với việc huy động khoảng 20 tỷ USD để mở rộng Colossus 2; NVIDIA có thể đầu tư tới 2 tỷ USD. Đây vẫn là thương vụ đang trong đàm phán. Theo thông tin từ X, có khá nhiều người cho rằng đây là dấu hiệu nhu cầu về GPU sẽ tiếp tục tăng mạnh.",
+    "lesson": "Đây là ví dụ cho KOL effect kết hợp FOMO: một nhân vật nổi tiếng có thể làm thông tin lan nhanh và tạo cảm giác “người có sức ảnh hưởng đã đặt cược thì mình cũng nên vào theo”. Nhưng sức ảnh hưởng của Elon Musk không biến một thương vụ đang đàm phán thành một tín hiệu chắc chắn về giá cổ phiếu NVIDIA.",
     "metrics": [
       [
         "~$20B",
@@ -26,8 +26,8 @@
       }
     ],
     "bullets": [
-      "Reuters đưa tin xAI đang mở rộng vòng gọi vốn lên khoảng 20 tỷ USD; nguồn tin cho biết khoản vốn có cấu trúc bao gồm phần NVIDIA đầu tư tối đa khoảng 2 tỷ USD và tiền được dùng để mua bộ xử lý NVIDIA cho Colossus 2.",
-      "Điểm đáng chú ý trong game không phải “Musk nói gì về giá”, mà là cách một tên tuổi nổi tiếng có thể biến một câu chuyện về nhu cầu compute thành tín hiệu tâm lý đối với nhà đầu tư nhỏ lẻ."
+      "Reuters đưa tin xAI đang mở rộng về việc gọi vốn lên khoảng 20 tỷ USD; nguồn tin cho biết khoản vốn bao gồm phần NVIDIA đầu tư tối đa khoảng 2 tỷ USD và tiền được dùng để mua bộ xử lý NVIDIA cho Colossus 2.",
+      "Musk là một nhân vật có sức ảnh hưởng lớn, nhưng liệu đứng trước một thương vụ đang đàm phán, việc ông ấy tham gia có biến nó thành một tín hiệu chắc chắn về giá cổ phiếu NVIDIA hay không?"
     ]
   },
   {
@@ -37,16 +37,16 @@
     "chartStart": "2025-09-29",
     "title": "Mỹ mở thêm cơ hội xuất khẩu chip NVIDIA sang UAE",
     "eyebrow": "FOMO / RETAIL TRADERS",
-    "question": "Mỹ đã phê duyệt giấy phép xuất khẩu chip NVIDIA trị giá vài tỷ USD sang UAE, trong khi nhà đầu tư ngày càng đặt cược vào khả năng giá cổ phiếu AI tiếp tục đi lên. Tin xuất khẩu có thể mở rộng cơ hội cung cấp chip, nhưng tin tốt và tâm lý sợ bỏ lỡ không bảo đảm giá sẽ tăng ngay. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
-    "lesson": "Đây là lúc herd behavior và FOMO dễ chồng lên nhau. Không phải cứ nhiều người cùng mua thì quyết định đó sai; vấn đề là người chơi có thể tăng vị thế chỉ vì thấy người khác đang kiếm được tiền. Trong game, quy mô lệnh quan trọng không kém hướng BUY/SELL.",
+    "question": "Mỹ đã phê duyệt giấy phép xuất khẩu chip NVIDIA trị giá vài tỷ USD sang UAE, trong khi nhà đầu tư ngày càng đặt cược vào khả năng giá cổ phiếu AI tiếp tục đi lên. Tin xuất khẩu có thể mở rộng cơ hội cung cấp chip, nhưng liệu tin tốt và tâm lý sợ bỏ lỡ có đủ để đẩy giá lên ngay hay không?",
+    "lesson": "Đây là lúc herd behavior và FOMO dễ chồng lên nhau. Không phải cứ nhiều người cùng mua thì quyết định đó sai; vấn đề là nhiều người đồng ý với nhau không phải là bằng chứng cho hướng đi tiếp theo. Người chơi cần phân biệt giữa tin tốt và kỳ vọng của thị trường phản ánh ra sao.",
     "metrics": [
       [
         "FOMO",
-        "Nhu cầu quyền chọn mua"
+        "Nhu cầu đặt mua tăng cao"
       ],
       [
         "UAE",
-        "Tin nới xuất khẩu chip"
+        "Mở rộng xuất khẩu chip NVIDIA"
       ]
     ],
     "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
@@ -72,8 +72,8 @@
     "chartStart": "2025-09-29",
     "title": "Meta và Oracle chọn hạ tầng mạng AI của NVIDIA",
     "eyebrow": "NVIDIA / META / ORACLE",
-    "question": "Meta sẽ tích hợp bộ chuyển mạch dựa trên Spectrum Ethernet, còn Oracle dùng Spectrum-X Ethernet để xây dựng siêu máy tính AI. Khách hàng lớn chọn công nghệ mạng NVIDIA là tín hiệu mở rộng ảnh hưởng, nhưng thông báo chưa cho biết doanh thu sẽ được ghi nhận khi nào và không bảo đảm giá tăng ngay. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
-    "lesson": "Đây là confirmation bias và expectation gap. Một tin rất tích cực vẫn có thể gặp một thị trường đã kỳ vọng rất cao, hoặc bị lấn át bởi yếu tố khác. Người chơi không cần chống lại tin tốt; họ cần tránh biến một tin tốt thành lý do để dồn danh mục vào một mã.",
+    "question": "Meta sẽ tích hợp bộ chuyển mạch dựa trên Spectrum Ethernet, còn Oracle dùng Spectrum-X Ethernet để xây dựng siêu máy tính AI. Khách hàng lớn chọn công nghệ mạng NVIDIA là tín hiệu mở rộng ảnh hưởng, nhưng thông báo chưa cho biết doanh thu sẽ được ghi nhận khi nào và không bảo đảm giá tăng ngay.",
+    "lesson": "Đây là ví dụ cho confirmation bias và expectation gap. Một tin rất tích cực vẫn có thể gặp một thị trường đã kỳ vọng rất cao, hoặc bị lấn át bởi yếu tố khác, tránh việc biến một tin tốt thành lý do để dồn danh mục vào một mã.",
     "metrics": [
       [
         "Meta + Oracle",
@@ -93,7 +93,7 @@
     ],
     "bullets": [
       "NVIDIA công bố Meta và Oracle đang sử dụng Spectrum-X Ethernet cho hạ tầng AI; công ty mô tả đây là nền tảng mạng cho các cụm GPU quy mô lớn.",
-      "Điểm chơi là sự chênh lệch giữa “tin tốt” và “giá sẽ tăng ngay”: thị trường còn phải định giá kỳ vọng, rủi ro và những thông tin khác cùng lúc."
+      "Đây là một tin tốt cho NVIDIA, nhưng không đồng nghĩa giá cổ phiếu sẽ tăng ngay; thị trường có thể đã phản ánh kỳ vọng này từ trước."
     ]
   },
   {
@@ -103,7 +103,7 @@
     "chartStart": "2025-10-01",
     "title": "Microsoft và Nscale ký thỏa thuận cho khoảng 200.000 GPU NVIDIA",
     "eyebrow": "AI INFRASTRUCTURE / MICROSOFT",
-    "question": "Nscale công bố thỏa thuận với Microsoft để triển khai khoảng 200.000 GPU NVIDIA GB300 cho hạ tầng AI ở Mỹ và châu Âu, theo nhiều giai đoạn. Quy mô này cho thấy các tập đoàn vẫn đầu tư mạnh vào năng lực tính toán, nhưng không có nghĩa toàn bộ GPU đã được giao hay doanh thu ghi nhận ngay ngày ký. Có người trong nhóm chat nói: “Đơn hàng cỡ này thì cứ mua tối đa thôi!” Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "question": "Nscale công bố thỏa thuận với Microsoft để triển khai khoảng 200.000 GPU NVIDIA GB300 cho hạ tầng AI ở Mỹ và châu Âu, theo nhiều giai đoạn. Quy mô này cho thấy các tập đoàn vẫn đầu tư mạnh vào năng lực tính toán, nhưng không có nghĩa toàn bộ GPU đã được giao hay doanh thu ghi nhận ngay ngày ký. Có người trong nhóm chat nói: “Đơn hàng cỡ này thì cứ mua tối đa thôi!”",
     "lesson": "Tình huống này đánh vào overconfidence và concentration risk. Dữ liệu cầu thật có thể củng cố luận điểm dài hạn, nhưng nó không cho phép nhà đầu tư biết chắc hướng giá của vài phiên tới. Người chơi càng tin vào câu chuyện, càng dễ phóng đại quy mô lệnh.",
     "metrics": [
       [
@@ -124,7 +124,7 @@
     ],
     "bullets": [
       "Reuters đưa tin Nscale và Microsoft mở rộng thỏa thuận, với khoảng 200.000 chip NVIDIA được triển khai tại các trung tâm dữ liệu ở châu Âu và Mỹ.",
-      "Đây là ví dụ cho việc AI demand đã trở thành đầu tư hạ tầng thật — nhưng “câu chuyện dài hạn đúng” và “phiên kế tiếp tăng” vẫn là hai mệnh đề khác nhau."
+      "Đây là ví dụ cho việc nhu cầu AI đã trở thành đầu tư hạ tầng thật — Liệu ảnh hưởng lần này có đủ lớn để đẩy giá cổ phiếu NVIDIA lên ngay hay không?"
     ]
   },
   {
@@ -133,8 +133,8 @@
     "revealDate": "2025-10-22",
     "chartStart": "2025-10-08",
     "title": "Thị trường bật lại sau những phiên bán mạnh",
-    "eyebrow": "BUY THE DIP / HERD",
-    "question": "Phố Wall và phần lớn thị trường toàn cầu hồi phục khi kỳ vọng lợi nhuận doanh nghiệp cải thiện và căng thẳng thương mại dịu bớt, sau những lo ngại về định giá, tín dụng tư nhân và một số ngân hàng Mỹ. Trên feed, câu “đáy xác nhận rồi” xuất hiện dày đặc, dù rủi ro chưa biến mất. Bạn sẽ mua ngay, chờ thêm hay giảm vị thế — BUY, HOLD hay SELL, và bao nhiêu cổ phiếu?",
+    "eyebrow": "BUY THE DIP",
+    "question": "Phố Wall và phần lớn thị trường toàn cầu hồi phục khi kỳ vọng lợi nhuận doanh nghiệp cải thiện và căng thẳng thương mại dịu bớt, sau những lo ngại về định giá, tín dụng tư nhân và một số ngân hàng Mỹ. Trên feed, câu “cổ chạm đáy rồi hehe” xuất hiện dày đặc, dù rủi ro chưa biến mất.",
     "lesson": "Herd behavior không phải lúc nào cũng tạo ra quyết định sai. Cái bẫy là dùng số người đồng ý với mình như một bằng chứng thay cho phân tích. Đây cũng là recency bias: một nhịp hồi gần đây có thể khiến người chơi tin rằng đáy đã chắc chắn được xác nhận.",
     "metrics": [
       [
@@ -165,12 +165,12 @@
     "chartStart": "2025-10-10",
     "title": "Jensen Huang đặt cược 5 tỷ USD vào Intel",
     "eyebrow": "NVIDIA / INTEL / OVERCONFIDENCE",
-    "question": "NVIDIA dự kiến đầu tư 5 tỷ USD để mua khoảng 214,8 triệu cổ phiếu Intel, tương đương khoảng 4% cổ phần sau phát hành; hai công ty cũng lên kế hoạch cùng phát triển chip. Khoản đầu tư không bảo đảm Intel phục hồi hay lợi ích hợp tác xuất hiện ngay. Một người vừa thắng vài vòng liên tiếp nói: “Tao đọc NVDA chuẩn rồi, vòng này tăng size!” Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "question": "NVIDIA dự kiến đầu tư 5 tỷ USD để mua khoảng 214,8 triệu cổ phiếu Intel, tương đương khoảng 4% cổ phần sau phát hành; hai công ty cũng lên kế hoạch cùng phát triển chip. Khoản đầu tư không bảo đảm Intel phục hồi hay lợi ích hợp tác xuất hiện ngay. Một người vừa thắng vài vòng liên tiếp nói: “Tao đọc NVDA chuẩn rồi, vòng này tăng size!”",
     "lesson": "Đây là overconfidence sau chuỗi kết quả tốt, cộng thêm concentration risk. Một lệnh thắng không chứng minh kỹ năng dự báo ổn định. Khi người chơi tăng size chỉ vì vừa thắng, một quyết định sai có thể xóa nhanh thành quả của nhiều vòng trước.",
     "metrics": [
       [
         "$5B",
-        "NVIDIA đầu tư Intel"
+        "NVIDIA đầu tư vào Intel"
       ],
       [
         "~4%",
@@ -186,7 +186,7 @@
     ],
     "bullets": [
       "Reuters đưa tin NVIDIA cam kết đầu tư 5 tỷ USD vào Intel; thương vụ này được theo dõi như một phần của làn sóng đầu tư và hợp tác quanh hệ sinh thái AI.",
-      "Trong game, điểm quan trọng là không biến một thông tin tích cực thành lý do để dồn toàn bộ danh mục vào NVDA."
+      "Liệu đây có phải thông tin tích cực hay chỉ đơn thuần là overconfidence của một nhà đầu tư nổi tiếng?"
     ]
   },
   {
@@ -196,7 +196,7 @@
     "chartStart": "2025-10-13",
     "title": "Cổ phiếu AI lao dốc, Michael Burry đặt cược vào chiều giảm",
     "eyebrow": "SELL-OFF / PANIC / MICHAEL BURRY",
-    "question": "Đầu tháng 11, cổ phiếu công nghệ bị bán mạnh và nhà đầu tư tranh luận liệu đây chỉ là chốt lời hay một đợt điều chỉnh sâu hơn. Hồ sơ quỹ của Michael Burry cho thấy các vị thế quyền chọn bán NVIDIA và Palantir, nhưng đó là vị thế cuối tháng 9 chứ không phải cập nhật giao dịch trực tiếp. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "question": "Đầu tháng 11, cổ phiếu công nghệ bị bán mạnh và nhà đầu tư tranh luận rằng liệu đây chỉ là chốt lời hay một đợt điều chỉnh sâu hơn. Hồ sơ quỹ của Michael Burry cho thấy ông đã mua theo chiều giảm ở NVIDIA và Palantir. Một số người trong nhóm chat nói: “Burry short NVDA, chắc sắp giảm nữa rồi.”",
     "lesson": "Tình huống này ghép panic selling, authority effect và herd behavior. Việc một nhà đầu tư nổi tiếng đặt cược theo chiều giảm có thể làm cảm giác rủi ro tăng mạnh, nhưng nó không phải bằng chứng chắc chắn cho hướng đi tiếp theo. Ngược lại, gọi mọi cú giảm là “cơ hội” cũng có thể là confirmation bias.",
     "metrics": [
       [
@@ -204,7 +204,7 @@
         "NVDA dưới đỉnh tháng 10"
       ],
       [
-        "Burry",
+        "Michael",
         "Tín hiệu tâm lý chiều giảm"
       ]
     ],
@@ -216,7 +216,7 @@
       }
     ],
     "bullets": [
-      "Reuters mô tả đợt bán tháo mạnh ở cổ phiếu công nghệ/AI ngày 5/11, với NVIDIA nằm trong nhóm bị ảnh hưởng nặng; các chuyên gia cho rằng đây có nhiều dấu hiệu của profit-taking và positioning unwind hơn là sự sụp đổ của câu chuyện AI.",
+      "Reuters mô tả đợt bán tháo mạnh ở cổ phiếu công nghệ/AI ngày 5/11, với NVIDIA nằm trong nhóm bị ảnh hưởng nặng; các chuyên gia cho rằng đây có nhiều dấu hiệu của việc chốt lời hơn là sự sụp đổ của câu chuyện về AI.",
       "Bài viết cũng nhắc đến Michael Burry đã mua vị thế theo chiều giảm ở NVIDIA và Palantir — một ví dụ rõ về việc một tên tuổi nổi tiếng có thể trở thành tín hiệu tâm lý cho đám đông."
     ]
   },
@@ -227,8 +227,8 @@
     "chartStart": "2025-10-27",
     "title": "NVIDIA bật tăng, còn 9 ngày tới báo cáo quý",
     "eyebrow": "EARNINGS COUNTDOWN / UNCERTAINTY",
-    "question": "Sau khi đóng cửa ở 188,15 USD ngày 7/11, NVDA tăng 5,79% trong phiên 10/11 lên 199,05 USD. Tâm lý đổi chiều nhanh: người lo giá giảm cân nhắc mua lại, còn người khác cho rằng cổ phiếu hồi quá nhanh. Báo cáo quý III được công bố sau giờ giao dịch ngày 19/11; kết quả tốt có thể hỗ trợ giá, nhưng kỳ vọng cao cũng làm tăng rủi ro phản ứng mạnh. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
-    "lesson": "Đây là decision-making dưới uncertainty. Người chơi có thể biết ngày sự kiện nhưng không biết kết quả. Khi bất định cao, overconfidence dễ khiến nhà đầu tư phóng đại khả năng mình dự báo đúng; ngược lại, panic có thể khiến họ bán chỉ vì sợ biến động. Game đo cả hướng lệnh lẫn quản trị quy mô vị thế.",
+    "question": "Sau khi đóng cửa ở 188,15 USD ngày 7/11, NVDA tăng 5,79% trong phiên 10/11 lên 199,05 USD. Tâm lý đổi chiều nhanh: người lo giá giảm cân nhắc mua lại, còn người khác cho rằng cổ phiếu hồi quá nhanh. Báo cáo quý III được công bố sau giờ giao dịch ngày 19/11; kết quả tốt có thể hỗ trợ giá, nhưng kỳ vọng cao cũng làm tăng rủi ro phản ứng mạnh.",
+    "lesson": "Đây là decision-making dưới uncertainty. Người chơi có thể biết ngày sự kiện nhưng không biết kết quả. Khi bất định cao, overconfidence dễ khiến nhà đầu tư phóng đại khả năng mình dự báo đúng; ngược lại, panic có thể khiến họ bán chỉ vì sợ biến động.",
     "metrics": [
       [
         "19/11",
@@ -258,7 +258,7 @@
     "chartStart": "2025-11-03",
     "title": "NVIDIA chuẩn bị công bố báo cáo quý III",
     "eyebrow": "FINAL ROUND / EARNINGS",
-    "question": "Đây là vòng cuối. NVIDIA sẽ công bố kết quả quý III tài khóa 2026 sau giờ giao dịch ngày 19/11; dự báo thị trường khoảng 55,4 tỷ USD doanh thu và EPS 1,26 USD, còn quyền chọn phản ánh biến động khoảng ±6,9%. Nhu cầu AI vẫn mạnh nhưng kỳ vọng đã cao, và không còn vòng sau nếu giá phản ứng ngược dự đoán. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "question": "Đây là vòng cuối. NVIDIA sẽ công bố kết quả quý III tài khóa 2026 sau giờ giao dịch ngày 19/11; dự báo thị trường khoảng 55,4 tỷ USD doanh thu và EPS 1,26 USD, còn quyền chọn phản ánh biến động khoảng ±6,9%. Nhu cầu AI vẫn mạnh nhưng kỳ vọng đã cao, và không còn vòng sau nếu giá phản ứng ngược dự đoán.",
     "lesson": "Đây là cú chốt của game: fundamental news rất mạnh vẫn không đồng nghĩa với giá phiên kế tiếp sẽ tăng. Khi kỳ vọng đã quá cao, câu hỏi thị trường không còn chỉ là “kết quả tốt không?” mà là “tốt hơn kỳ vọng bao nhiêu, và giá đã phản ánh bao nhiêu?”. Đây cũng là nơi FOMO, loss aversion và disposition effect dễ xuất hiện cùng lúc vì người chơi biết đây là cơ hội cuối.",
     "metrics": [
       [
