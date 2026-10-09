@@ -1,0 +1,95 @@
+{
+  "symbol": "NVDA",
+  "dataset": "Yahoo Finance daily OHLCV",
+  "source": "https://finance.yahoo.com/quote/NVDA/history/",
+  "periodStart": "2025-09-25",
+  "periodEnd": "2025-11-20",
+  "tradingSessions": 41,
+  "upSessions": 21,
+  "downSessions": 19,
+  "roundsUp": 4,
+  "roundsDown": 5,
+  "rounds": [
+    {
+      "round": 1,
+      "chartStart": "2025-09-25",
+      "decision": "2025-10-07",
+      "reveal": "2025-10-09",
+      "execution": 185.04,
+      "revealClose": 192.57,
+      "changePct": 4.07
+    },
+    {
+      "round": 2,
+      "chartStart": "2025-09-29",
+      "decision": "2025-10-09",
+      "reveal": "2025-10-13",
+      "execution": 192.57,
+      "revealClose": 188.32,
+      "changePct": -2.21
+    },
+    {
+      "round": 3,
+      "chartStart": "2025-09-29",
+      "decision": "2025-10-13",
+      "reveal": "2025-10-15",
+      "execution": 188.32,
+      "revealClose": 179.83,
+      "changePct": -4.51
+    },
+    {
+      "round": 4,
+      "chartStart": "2025-10-01",
+      "decision": "2025-10-15",
+      "reveal": "2025-10-20",
+      "execution": 179.83,
+      "revealClose": 182.64,
+      "changePct": 1.56
+    },
+    {
+      "round": 5,
+      "chartStart": "2025-10-08",
+      "decision": "2025-10-20",
+      "reveal": "2025-10-22",
+      "execution": 182.64,
+      "revealClose": 180.28,
+      "changePct": -1.29
+    },
+    {
+      "round": 6,
+      "chartStart": "2025-10-10",
+      "decision": "2025-10-22",
+      "reveal": "2025-11-05",
+      "execution": 180.28,
+      "revealClose": 195.21,
+      "changePct": 8.28
+    },
+    {
+      "round": 7,
+      "chartStart": "2025-10-13",
+      "decision": "2025-11-05",
+      "reveal": "2025-11-10",
+      "execution": 195.21,
+      "revealClose": 199.05,
+      "changePct": 1.97
+    },
+    {
+      "round": 8,
+      "chartStart": "2025-10-27",
+      "decision": "2025-11-10",
+      "reveal": "2025-11-19",
+      "execution": 199.05,
+      "revealClose": 186.52,
+      "changePct": -6.29
+    },
+    {
+      "round": 9,
+      "chartStart": "2025-11-03",
+      "decision": "2025-11-19",
+      "reveal": "2025-11-20",
+      "execution": 186.52,
+      "revealClose": 180.64,
+      "changePct": -3.15
+    }
+  ]
+}

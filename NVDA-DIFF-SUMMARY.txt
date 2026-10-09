@@ -1,0 +1,19 @@
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/DATA-SOURCES.md and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/DATA-SOURCES.md differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/DEPLOY.md and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/DEPLOY.md differ
+Only in /mnt/data/game_inspect/Dung-De-Tien-Roi-v2: NVDA-DATA-CHECK.json
+Only in /mnt/data/game_inspect/Dung-De-Tien-Roi-v2: NVDA-MIGRATION-PLAN.md
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/README.md and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/README.md differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/app/globals.css and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/app/globals.css differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/app/layout.jsx and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/app/layout.jsx differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/components/Game.jsx and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/components/Game.jsx differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/components/GameAudio.jsx and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/components/GameAudio.jsx differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/components/MarketChart.jsx and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/components/MarketChart.jsx differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/components/OrderPanel.jsx and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/components/OrderPanel.jsx differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/lib/engine.mjs and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/lib/engine.mjs differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/lib/event-content.json and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/lib/event-content.json differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/lib/events.mjs and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/lib/events.mjs differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/lib/price-history.json and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/lib/price-history.json differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/lib/rules.mjs and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/lib/rules.mjs differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/scripts/test-room.mjs and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/scripts/test-room.mjs differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/tests/engine.test.mjs and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/tests/engine.test.mjs differ
+Files /mnt/data/game_inspect/Dung-De-Tien-Roi-v2-backup-before-nvda/tests/store.test.mjs and /mnt/data/game_inspect/Dung-De-Tien-Roi-v2/tests/store.test.mjs differ

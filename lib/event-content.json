@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1,
+    "date": "2025-10-07",
+    "revealDate": "2025-10-09",
+    "chartStart": "2025-09-25",
+    "title": "Elon Musk và thương vụ huy động 20 tỷ USD cho xAI",
+    "eyebrow": "AI BOOM / xAI / ELON MUSK",
+    "question": "xAI được cho là đang tiến gần vòng huy động khoảng 20 tỷ USD để mở rộng Colossus 2; NVIDIA có thể đầu tư tới 2 tỷ USD. Đây vẫn là thương vụ đang đàm phán, chưa phải tiền đã giải ngân hay doanh thu NVIDIA đã ghi nhận. Trên mạng, nhiều người xem tin này là dấu hiệu nhu cầu GPU sẽ tiếp tục tăng mạnh. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Đây là authority/KOL effect kết hợp FOMO: một nhân vật nổi tiếng có thể làm thông tin lan nhanh và tạo cảm giác “người có fame đã đặt cược thì mình cũng nên vào”. Nhưng sức ảnh hưởng của Elon Musk không phải là bảo đảm cho giá NVDA ở phiên kế tiếp. Hãy tách thông tin thật về nhu cầu chip khỏi niềm tin được tạo ra bởi tên tuổi.",
+    "metrics": [
+      [
+        "~$20B",
+        "Vòng gọi vốn xAI"
+      ],
+      [
+        "~$2B",
+        "Khoản đầu tư Nvidia được báo cáo"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "Reuters · xAI / Musk",
+        "url": "https://www.reuters.com/business/musks-xai-nears-20-billion-capital-raise-tied-nvidia-chips-2025-10-07/"
+      }
+    ],
+    "bullets": [
+      "Reuters đưa tin xAI đang mở rộng vòng gọi vốn lên khoảng 20 tỷ USD; nguồn tin cho biết khoản vốn có cấu trúc bao gồm phần NVIDIA đầu tư tối đa khoảng 2 tỷ USD và tiền được dùng để mua bộ xử lý NVIDIA cho Colossus 2.",
+      "Điểm đáng chú ý trong game không phải “Musk nói gì về giá”, mà là cách một tên tuổi nổi tiếng có thể biến một câu chuyện về nhu cầu compute thành tín hiệu tâm lý đối với nhà đầu tư nhỏ lẻ."
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2025-10-09",
+    "revealDate": "2025-10-13",
+    "chartStart": "2025-09-29",
+    "title": "Mỹ mở thêm cơ hội xuất khẩu chip NVIDIA sang UAE",
+    "eyebrow": "FOMO / RETAIL TRADERS",
+    "question": "Mỹ đã phê duyệt giấy phép xuất khẩu chip NVIDIA trị giá vài tỷ USD sang UAE, trong khi nhà đầu tư ngày càng đặt cược vào khả năng giá cổ phiếu AI tiếp tục đi lên. Tin xuất khẩu có thể mở rộng cơ hội cung cấp chip, nhưng tin tốt và tâm lý sợ bỏ lỡ không bảo đảm giá sẽ tăng ngay. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Đây là lúc herd behavior và FOMO dễ chồng lên nhau. Không phải cứ nhiều người cùng mua thì quyết định đó sai; vấn đề là người chơi có thể tăng vị thế chỉ vì thấy người khác đang kiếm được tiền. Trong game, quy mô lệnh quan trọng không kém hướng BUY/SELL.",
+    "metrics": [
+      [
+        "FOMO",
+        "Nhu cầu quyền chọn mua"
+      ],
+      [
+        "UAE",
+        "Tin nới xuất khẩu chip"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "Reuters · FOMO / options",
+        "url": "https://www.reuters.com/business/fear-missing-out-trumps-other-worries-euphoria-grips-us-stock-options-traders-2025-10-09/"
+      },
+      {
+        "label": "Reuters · UAE exports",
+        "url": "https://www.reuters.com/technology/us-approves-some-nvidia-uae-sales-bloomberg-news-reports-2025-10-09/"
+      }
+    ],
+    "bullets": [
+      "Reuters mô tả nhu cầu quyền chọn mua của nhà đầu tư cá nhân ở nhóm cổ phiếu AI đang rất mạnh, một biểu hiện rõ của tâm lý sợ bỏ lỡ.",
+      "Cùng ngày, Reuters đưa tin Mỹ chấp thuận một số thương vụ xuất khẩu chip NVIDIA sang UAE — thêm một tin tích cực để đám đông củng cố niềm tin."
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2025-10-13",
+    "revealDate": "2025-10-15",
+    "chartStart": "2025-09-29",
+    "title": "Meta và Oracle chọn hạ tầng mạng AI của NVIDIA",
+    "eyebrow": "NVIDIA / META / ORACLE",
+    "question": "Meta sẽ tích hợp bộ chuyển mạch dựa trên Spectrum Ethernet, còn Oracle dùng Spectrum-X Ethernet để xây dựng siêu máy tính AI. Khách hàng lớn chọn công nghệ mạng NVIDIA là tín hiệu mở rộng ảnh hưởng, nhưng thông báo chưa cho biết doanh thu sẽ được ghi nhận khi nào và không bảo đảm giá tăng ngay. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Đây là confirmation bias và expectation gap. Một tin rất tích cực vẫn có thể gặp một thị trường đã kỳ vọng rất cao, hoặc bị lấn át bởi yếu tố khác. Người chơi không cần chống lại tin tốt; họ cần tránh biến một tin tốt thành lý do để dồn danh mục vào một mã.",
+    "metrics": [
+      [
+        "Meta + Oracle",
+        "Khách hàng AI"
+      ],
+      [
+        "Spectrum-X",
+        "Hạ tầng mạng AI"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "NVIDIA Newsroom · Spectrum-X",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-spectrum-x-ethernet-switches-speed-up-networks-for-meta-and-oracle"
+      }
+    ],
+    "bullets": [
+      "NVIDIA công bố Meta và Oracle đang sử dụng Spectrum-X Ethernet cho hạ tầng AI; công ty mô tả đây là nền tảng mạng cho các cụm GPU quy mô lớn.",
+      "Điểm chơi là sự chênh lệch giữa “tin tốt” và “giá sẽ tăng ngay”: thị trường còn phải định giá kỳ vọng, rủi ro và những thông tin khác cùng lúc."
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2025-10-15",
+    "revealDate": "2025-10-20",
+    "chartStart": "2025-10-01",
+    "title": "Microsoft và Nscale ký thỏa thuận cho khoảng 200.000 GPU NVIDIA",
+    "eyebrow": "AI INFRASTRUCTURE / MICROSOFT",
+    "question": "Nscale công bố thỏa thuận với Microsoft để triển khai khoảng 200.000 GPU NVIDIA GB300 cho hạ tầng AI ở Mỹ và châu Âu, theo nhiều giai đoạn. Quy mô này cho thấy các tập đoàn vẫn đầu tư mạnh vào năng lực tính toán, nhưng không có nghĩa toàn bộ GPU đã được giao hay doanh thu ghi nhận ngay ngày ký. Có người trong nhóm chat nói: “Đơn hàng cỡ này thì cứ mua tối đa thôi!” Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Tình huống này đánh vào overconfidence và concentration risk. Dữ liệu cầu thật có thể củng cố luận điểm dài hạn, nhưng nó không cho phép nhà đầu tư biết chắc hướng giá của vài phiên tới. Người chơi càng tin vào câu chuyện, càng dễ phóng đại quy mô lệnh.",
+    "metrics": [
+      [
+        "200.000",
+        "Chip NVIDIA"
+      ],
+      [
+        "~$14B",
+        "Ước tính giá trị được FT nêu"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "Reuters · Nscale / Microsoft",
+        "url": "https://www.reuters.com/world/europe/uks-nscale-signs-deal-with-microsoft-supply-200000-nvidia-ai-chips-2025-10-15/"
+      }
+    ],
+    "bullets": [
+      "Reuters đưa tin Nscale và Microsoft mở rộng thỏa thuận, với khoảng 200.000 chip NVIDIA được triển khai tại các trung tâm dữ liệu ở châu Âu và Mỹ.",
+      "Đây là ví dụ cho việc AI demand đã trở thành đầu tư hạ tầng thật — nhưng “câu chuyện dài hạn đúng” và “phiên kế tiếp tăng” vẫn là hai mệnh đề khác nhau."
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2025-10-20",
+    "revealDate": "2025-10-22",
+    "chartStart": "2025-10-08",
+    "title": "Thị trường bật lại sau những phiên bán mạnh",
+    "eyebrow": "BUY THE DIP / HERD",
+    "question": "Phố Wall và phần lớn thị trường toàn cầu hồi phục khi kỳ vọng lợi nhuận doanh nghiệp cải thiện và căng thẳng thương mại dịu bớt, sau những lo ngại về định giá, tín dụng tư nhân và một số ngân hàng Mỹ. Trên feed, câu “đáy xác nhận rồi” xuất hiện dày đặc, dù rủi ro chưa biến mất. Bạn sẽ mua ngay, chờ thêm hay giảm vị thế — BUY, HOLD hay SELL, và bao nhiêu cổ phiếu?",
+    "lesson": "Herd behavior không phải lúc nào cũng tạo ra quyết định sai. Cái bẫy là dùng số người đồng ý với mình như một bằng chứng thay cho phân tích. Đây cũng là recency bias: một nhịp hồi gần đây có thể khiến người chơi tin rằng đáy đã chắc chắn được xác nhận.",
+    "metrics": [
+      [
+        "“BUY THE DIP”",
+        "Khẩu hiệu thị trường"
+      ],
+      [
+        "20/10",
+        "Phiên hồi phục"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "Reuters · buy the dip",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-trading-day-graphic-2025-10-20/"
+      }
+    ],
+    "bullets": [
+      "Reuters mô tả một làn sóng “buy the dip” trong phiên 20/10, khi chứng khoán phục hồi cùng với tâm lý lạc quan hơn về lợi nhuận và thương mại.",
+      "Đồng thời, thị trường vẫn có những nỗi lo về định giá cao và các rủi ro khác — nghĩa là “mọi người đang mua” không phải là một đáp án tự động."
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2025-10-22",
+    "revealDate": "2025-11-05",
+    "chartStart": "2025-10-10",
+    "title": "Jensen Huang đặt cược 5 tỷ USD vào Intel",
+    "eyebrow": "NVIDIA / INTEL / OVERCONFIDENCE",
+    "question": "NVIDIA dự kiến đầu tư 5 tỷ USD để mua khoảng 214,8 triệu cổ phiếu Intel, tương đương khoảng 4% cổ phần sau phát hành; hai công ty cũng lên kế hoạch cùng phát triển chip. Khoản đầu tư không bảo đảm Intel phục hồi hay lợi ích hợp tác xuất hiện ngay. Một người vừa thắng vài vòng liên tiếp nói: “Tao đọc NVDA chuẩn rồi, vòng này tăng size!” Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Đây là overconfidence sau chuỗi kết quả tốt, cộng thêm concentration risk. Một lệnh thắng không chứng minh kỹ năng dự báo ổn định. Khi người chơi tăng size chỉ vì vừa thắng, một quyết định sai có thể xóa nhanh thành quả của nhiều vòng trước.",
+    "metrics": [
+      [
+        "$5B",
+        "NVIDIA đầu tư Intel"
+      ],
+      [
+        "~4%",
+        "Cổ phần dự kiến"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "Reuters · NVIDIA / Intel",
+        "url": "https://www.reuters.com/business/intel-results-show-if-barrage-investments-chipmaker-paying-off-2025-10-22/"
+      }
+    ],
+    "bullets": [
+      "Reuters đưa tin NVIDIA cam kết đầu tư 5 tỷ USD vào Intel; thương vụ này được theo dõi như một phần của làn sóng đầu tư và hợp tác quanh hệ sinh thái AI.",
+      "Trong game, điểm quan trọng là không biến một thông tin tích cực thành lý do để dồn toàn bộ danh mục vào NVDA."
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2025-11-05",
+    "revealDate": "2025-11-10",
+    "chartStart": "2025-10-13",
+    "title": "Cổ phiếu AI lao dốc, Michael Burry đặt cược vào chiều giảm",
+    "eyebrow": "SELL-OFF / PANIC / MICHAEL BURRY",
+    "question": "Đầu tháng 11, cổ phiếu công nghệ bị bán mạnh và nhà đầu tư tranh luận liệu đây chỉ là chốt lời hay một đợt điều chỉnh sâu hơn. Hồ sơ quỹ của Michael Burry cho thấy các vị thế quyền chọn bán NVIDIA và Palantir, nhưng đó là vị thế cuối tháng 9 chứ không phải cập nhật giao dịch trực tiếp. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Tình huống này ghép panic selling, authority effect và herd behavior. Việc một nhà đầu tư nổi tiếng đặt cược theo chiều giảm có thể làm cảm giác rủi ro tăng mạnh, nhưng nó không phải bằng chứng chắc chắn cho hướng đi tiếp theo. Ngược lại, gọi mọi cú giảm là “cơ hội” cũng có thể là confirmation bias.",
+    "metrics": [
+      [
+        "~7%",
+        "NVDA dưới đỉnh tháng 10"
+      ],
+      [
+        "Burry",
+        "Tín hiệu tâm lý chiều giảm"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "Reuters · AI selloff",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-ai-selloff-pix-2025-11-05/"
+      }
+    ],
+    "bullets": [
+      "Reuters mô tả đợt bán tháo mạnh ở cổ phiếu công nghệ/AI ngày 5/11, với NVIDIA nằm trong nhóm bị ảnh hưởng nặng; các chuyên gia cho rằng đây có nhiều dấu hiệu của profit-taking và positioning unwind hơn là sự sụp đổ của câu chuyện AI.",
+      "Bài viết cũng nhắc đến Michael Burry đã mua vị thế theo chiều giảm ở NVIDIA và Palantir — một ví dụ rõ về việc một tên tuổi nổi tiếng có thể trở thành tín hiệu tâm lý cho đám đông."
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2025-11-10",
+    "revealDate": "2025-11-19",
+    "chartStart": "2025-10-27",
+    "title": "NVIDIA bật tăng, còn 9 ngày tới báo cáo quý",
+    "eyebrow": "EARNINGS COUNTDOWN / UNCERTAINTY",
+    "question": "Sau khi đóng cửa ở 188,15 USD ngày 7/11, NVDA tăng 5,79% trong phiên 10/11 lên 199,05 USD. Tâm lý đổi chiều nhanh: người lo giá giảm cân nhắc mua lại, còn người khác cho rằng cổ phiếu hồi quá nhanh. Báo cáo quý III được công bố sau giờ giao dịch ngày 19/11; kết quả tốt có thể hỗ trợ giá, nhưng kỳ vọng cao cũng làm tăng rủi ro phản ứng mạnh. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Đây là decision-making dưới uncertainty. Người chơi có thể biết ngày sự kiện nhưng không biết kết quả. Khi bất định cao, overconfidence dễ khiến nhà đầu tư phóng đại khả năng mình dự báo đúng; ngược lại, panic có thể khiến họ bán chỉ vì sợ biến động. Game đo cả hướng lệnh lẫn quản trị quy mô vị thế.",
+    "metrics": [
+      [
+        "19/11",
+        "Ngày công bố KQKD"
+      ],
+      [
+        "9 ngày",
+        "Khoảng chờ tới earnings"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "NVIDIA Investor Relations · earnings date",
+        "url": "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/default.aspx"
+      }
+    ],
+    "bullets": [
+      "NVIDIA thông báo ngày 29/10 rằng họ sẽ công bố kết quả quý III vào ngày 19/11/2025 sau giờ giao dịch và tổ chức conference call ngay sau đó.",
+      "Khi một sự kiện có thể tạo biến động lớn đến gần, giá cổ phiếu có thể phản ánh rất nhiều kỳ vọng trước khi số liệu thật xuất hiện."
+    ]
+  },
+  {
+    "id": 9,
+    "date": "2025-11-19",
+    "revealDate": "2025-11-20",
+    "chartStart": "2025-11-03",
+    "title": "NVIDIA chuẩn bị công bố báo cáo quý III",
+    "eyebrow": "FINAL ROUND / EARNINGS",
+    "question": "Đây là vòng cuối. NVIDIA sẽ công bố kết quả quý III tài khóa 2026 sau giờ giao dịch ngày 19/11; dự báo thị trường khoảng 55,4 tỷ USD doanh thu và EPS 1,26 USD, còn quyền chọn phản ánh biến động khoảng ±6,9%. Nhu cầu AI vẫn mạnh nhưng kỳ vọng đã cao, và không còn vòng sau nếu giá phản ứng ngược dự đoán. Bạn sẽ BUY, HOLD hay SELL — và bao nhiêu cổ phiếu?",
+    "lesson": "Đây là cú chốt của game: fundamental news rất mạnh vẫn không đồng nghĩa với giá phiên kế tiếp sẽ tăng. Khi kỳ vọng đã quá cao, câu hỏi thị trường không còn chỉ là “kết quả tốt không?” mà là “tốt hơn kỳ vọng bao nhiêu, và giá đã phản ánh bao nhiêu?”. Đây cũng là nơi FOMO, loss aversion và disposition effect dễ xuất hiện cùng lúc vì người chơi biết đây là cơ hội cuối.",
+    "metrics": [
+      [
+        "$57.0B",
+        "Doanh thu Q3 FY2026"
+      ],
+      [
+        "$51.2B",
+        "Data Center revenue"
+      ]
+    ],
+    "priceSource": "https://finance.yahoo.com/quote/NVDA/history/",
+    "sources": [
+      {
+        "label": "NVIDIA Newsroom · Q3 FY2026",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026"
+      },
+      {
+        "label": "SEC · Form 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000228/000104581025000228-index.htm"
+      }
+    ],
+    "bullets": [
+      "NVIDIA công bố ngày 19/11 doanh thu quý III FY2026 đạt kỷ lục 57,0 tỷ USD, tăng 22% so với quý trước và 62% so với cùng kỳ; doanh thu Data Center đạt 51,2 tỷ USD.",
+      "Đây là tình huống lý tưởng để kiểm tra expectation gap: doanh nghiệp có thể báo số rất mạnh, nhưng nhà đầu tư vẫn phải đối mặt với mức kỳ vọng và định giá cực cao."
+    ]
+  }
+]
